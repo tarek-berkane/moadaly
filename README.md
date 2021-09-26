@@ -5,7 +5,7 @@
 
 * فيه جزئية خاصة بتخصصات الماستر في الإعلام الآلي بالبويرة،
 
-Try it : https://abdelmadjidsmail.github.io/moadaly/ 
+Try it : [moadaly-web](https://madjsmail.github.io/moadaly/)
 
 See Moadaly android app : [moadaly-App](https://github.com/tarekDZ2019/moadaly-App)
 
